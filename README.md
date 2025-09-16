@@ -8,7 +8,7 @@ Tenho experiência no desenvolvimento de **sites, análise de dados** e implemen
 ### 🔧 Experiência em projetos
 Atuei como **Full Stack Developer**, utilizando tecnologias como:  
 - **Front-end:** HTML5, CSS, JavaScript, Bootstrap  
-- **Back-end:** PHP, Python  
+- **Back-end:** Python, PHP
 - **Banco de Dados:** MySQL (modelagem, administração e integração)  
 
 Com capacidade de **gerenciamento de banco de dados**, integração entre sistemas e práticas de **boas implementações**.
@@ -23,7 +23,7 @@ Com capacidade de **gerenciamento de banco de dados**, integração entre sistem
 Busco aprimorar constantemente minhas habilidades como **Developer Full Stack**, acompanhando tendências de mercado, novas linguagens e ferramentas que potencializem o desenvolvimento de soluções digitais.  
 
 ## 📬 Contato
-- 📧 E-mail: **Cleytondurans.n@bryanmoreira.blog**  
+- 📧 E-mail: **Cleytondurans.n@@gmail.com**  
 - 💻 GitHub: [github.com/Cleyton-Durans](https://github.com/Cleyton-Durans)  
 - 🌐 Portfólio: [cleytondurans.com.br](http://cleytondurans.com.br)  
 - ☎️ Telefone: **(21) 96548-0932**  
