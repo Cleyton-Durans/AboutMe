@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Cleyton Durans
 
 ## 💻 Sobre mim
-Profissional de Tecnologia da Informação com experiência em suporte técnico e infraestrutura, em transição e desenvolvimento na área de programação e desenvolvimento de software. Possuo conhecimentos em HTML5, CSS3, JavaScript, Python, Django, PHP, MySQL e PostgreSQL, aplicados em projetos de sites, sistemas web e análise de dados. 
+Profissional de Tecnologia da Informação com experiência em suporte técnico e infraestrutura, em transição e desenvolvimento na área de programação e desenvolvimento de software. Possuo conhecimentos em HTML5, CSS3, JavaScript, Python, Django, PHP, MySQL e PostgreSQL, aplicados em projetos de sites, sistemas web e análise de dados.
 
 Tenho experiência no desenvolvimento de **sites, análise de dados** e implementação de sistemas, sempre com foco na **resolução de problemas** e em agregar valor aos projetos em que participo.  
 
