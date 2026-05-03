@@ -16,7 +16,7 @@ Com capacidade de **gerenciamento de banco de dados**, integração entre sistem
 ## 📚 Formação & Aprendizado Contínuo
 - Engenharia de Software - **Universidade Veiga de Almeida**
 - Técnico em Informática – **Senac Centro Politécnico**  
-- Formação em andamento e atualização contínua no **Full Stack Club**  
+- Formação em andamento e atualização contínua no **Codifica + PraTi Full Stack**  
 - Certificações: **CCNA Routing & Switching**, **IT Essentials**  
 - Conhecimento em **Pacote Office** e operação de sistemas **Windows e Linux**  
 
