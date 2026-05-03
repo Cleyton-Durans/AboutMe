@@ -8,12 +8,13 @@ Tenho experiência no desenvolvimento de **sites, análise de dados** e implemen
 ### 🔧 Experiência em projetos
 Atuei como **Full Stack Developer**, utilizando tecnologias como:  
 - **Front-end:** HTML5, CSS, JavaScript, Bootstrap  
-- **Back-end:** Python, PHP
+- **Back-end:** Python, PHP, Java
 - **Banco de Dados:** MySQL (modelagem, administração e integração)  
 
 Com capacidade de **gerenciamento de banco de dados**, integração entre sistemas e práticas de **boas implementações**.
 
 ## 📚 Formação & Aprendizado Contínuo
+- Engenharia de Software - **Universidade Veiga de Almeida**
 - Técnico em Informática – **Senac Centro Politécnico**  
 - Formação em andamento e atualização contínua no **Full Stack Club**  
 - Certificações: **CCNA Routing & Switching**, **IT Essentials**  
